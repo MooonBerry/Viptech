@@ -1,5 +1,7 @@
 import logo from "./images/logo.svg";
 import CameraInt from "./images/cameraInterna.svg"
+import cameraDs from "./images/cameraDs.svg"
+import cameraSmart from "./images/cameraSmart.svg"
 import "./App.css";
 
 function App() {
@@ -19,6 +21,9 @@ function App() {
             </ul>
           </nav> */}
         </h1>
+        <ul>
+          <img src={CameraInt} className="App-Int" alt="int"></img>
+        </ul>
       </header>
     </div>
   );

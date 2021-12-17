@@ -29,8 +29,11 @@ nav a {
   color: indigo;
 } */
 h1 {
-  margin: 10px;
+  margin: 20px;
   text-align: left;
+}
+ul{
+  float:left
 }
 /* @media (prefers-reduced-motion: no-preference) {
   .App-logo {
